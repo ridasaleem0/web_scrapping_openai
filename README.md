@@ -44,7 +44,7 @@ Here is the expert summary of the article along with key points relevant to clim
 |                                                   | increasing. This finding is significant for climate change      |
 |                                                   | policy makers as it indicates the urgency to address global     |
 |                                                   | warming and its impacts on polar ice sheets.                    |
-|---------------------------------------------------|-----------------------------------------------------------------|
+|---------------------------------------------------||
 | Sea levels are rising due to ice loss.            | The article mentions that the ice loss in Antarctica is         |
 |                                                   | contributing to rising sea levels. This information is crucial  |
 |                                                   | for policy makers to understand the potential consequences of   |
