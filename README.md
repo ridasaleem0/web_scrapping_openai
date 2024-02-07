@@ -56,7 +56,6 @@ Here is the expert summary of the article along with key points relevant to clim
 |                                                   | warming is its authenticity, suggesting that climate change     |
 |                                                   | policy makers should consider scientific consensus while        |
 |                                                   | formulating policies.                                           |
-|---------------------------------------------------|-----------------------------------------------------------------|
 
 These key points are relevant to climate change policy makers as they provide insights into the accelerating ice loss in Antarctica, its contribution to rising sea levels, anticipated future effects of warming, and the ongoing debate surrounding the authenticity of global warming. Understanding these aspects is crucial for policymakers to develop effective strategies and policies to address climate change and its impacts
 
