@@ -48,7 +48,6 @@ Here is the expert summary of the article along with key points relevant to clim
 |                                                   | contributing to rising sea levels. This information is crucial  |
 |                                                   | for policy makers to understand the potential consequences of   |
 |                                                   | climate change and implement mitigation strategies accordingly. |
-|---------------------------------------------------|-----------------------------------------------------------------|
 | Future effects of warming are anticipated.        | The article discusses the potential future effects of warming   |
 |                                                   | in Antarctica, including ecosystem disruptions and increased    |
 |                                                   | meltwater flow. Policy makers need to be aware of these         |
