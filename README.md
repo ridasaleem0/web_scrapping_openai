@@ -1,6 +1,5 @@
 # web_scrapping_openai
 
-f"""
 Example 1 Output Generated:
 Title of the Article: OpenAI Help Center
 
