@@ -6,10 +6,14 @@ The Smart Article Summarizer is a Python application that leverages the OpenAI A
 
 # Features
 
-## OpenAI Integration: Utilizes the OpenAI API, specifically the GPT (Generative Pre-trained Transformer) model, to perform advanced natural language processing tasks such as text summarization.
-## Web Scraping: Implements web scraping techniques, facilitated by libraries like newspaper or Beautiful Soup, to extract the content of web articles from their URLs.
-## Customizable Summarization Logic: Offers flexibility in summarization strategies, supporting various approaches such as extractive summarization, abstractive summarization, keyphrase extraction, and query-based summarization.
-## Error Handling: Includes robust error handling mechanisms to address issues such as invalid URLs, rate limits, and forbidden access during web scraping.
+## OpenAI Integration:
+Utilizes the OpenAI API, specifically the GPT (Generative Pre-trained Transformer) model, to perform advanced natural language processing tasks such as text summarization.
+## Web Scraping: 
+Implements web scraping techniques, facilitated by libraries like newspaper or Beautiful Soup, to extract the content of web articles from their URLs.
+## Customizable Summarization Logic: 
+Offers flexibility in summarization strategies, supporting various approaches such as extractive summarization, abstractive summarization, keyphrase extraction, and query-based summarization.
+## Error Handling: 
+Includes robust error handling mechanisms to address issues such as invalid URLs, rate limits, and forbidden access during web scraping.
 
 # Prerequisites
 
@@ -59,7 +63,9 @@ These points highlight the importance of optimizing prompts for climate change p
 
 Summary Generated.
 
-## Example 2 Output Generated:
+## Example 2 
+
+Output Generated:
 
 Title of the Article: Global warming and climate change effects: information and facts
 
