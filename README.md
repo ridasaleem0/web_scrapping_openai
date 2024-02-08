@@ -1,26 +1,29 @@
 # web_scrapping_openai
 
-Overview
+# Overview
 
 The Smart Article Summarizer is a Python application that leverages the OpenAI API and web scraping techniques to automatically generate concise summaries of web articles. It provides a convenient way to extract key insights and main points from lengthy articles, saving time and effort for users who need to quickly grasp the essence of online content.
 
-Features
+# Features
 
-OpenAI Integration: Utilizes the OpenAI API, specifically the GPT (Generative Pre-trained Transformer) model, to perform advanced natural language processing tasks such as text summarization.
-Web Scraping: Implements web scraping techniques, facilitated by libraries like newspaper or Beautiful Soup, to extract the content of web articles from their URLs.
-Customizable Summarization Logic: Offers flexibility in summarization strategies, supporting various approaches such as extractive summarization, abstractive summarization, keyphrase extraction, and query-based summarization.
-Error Handling: Includes robust error handling mechanisms to address issues such as invalid URLs, rate limits, and forbidden access during web scraping.
-Prerequisites
+## OpenAI Integration: Utilizes the OpenAI API, specifically the GPT (Generative Pre-trained Transformer) model, to perform advanced natural language processing tasks such as text summarization.
+## Web Scraping: Implements web scraping techniques, facilitated by libraries like newspaper or Beautiful Soup, to extract the content of web articles from their URLs.
+## Customizable Summarization Logic: Offers flexibility in summarization strategies, supporting various approaches such as extractive summarization, abstractive summarization, keyphrase extraction, and query-based summarization.
+## Error Handling: Includes robust error handling mechanisms to address issues such as invalid URLs, rate limits, and forbidden access during web scraping.
+
+# Prerequisites
 
 Python 3.x installed on your system.
 OpenAI API key obtained from the OpenAI website.
 Basic familiarity with Python programming and web scraping concepts.
-Setup Instructions
 
-Clone the repository to your local machine.
-Install the required Python dependencies using pip install -r requirements.txt.
-Set up your OpenAI API key as an environment variable or provide it directly in the code.
-Usage
+# Setup Instructions
+
+1. Clone the repository to your local machine.
+2. Install the required Python dependencies using pip install -r requirements.txt.
+3. Set up your OpenAI API key as an environment variable or provide it directly in the code.
+
+# Usage
 
 Specify the URL of the article you want to summarize.
 Run the Python script, providing the URL as input.
@@ -29,12 +32,13 @@ Contributing
 
 Contributions to the Smart Article Summarizer project are welcome! If you encounter any bugs, have feature requests, or want to contribute improvements, please feel free to submit pull requests or open issues on GitHub.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feel free to customize this template according to your project's specific requirements and features.
-Example 1 Output Generated:
+
+# Output Results 
+
+## Example 1 
+
+Output Generated:
 Title of the Article: OpenAI Help Center
 
 Generating Summary...
@@ -55,7 +59,7 @@ These points highlight the importance of optimizing prompts for climate change p
 
 Summary Generated.
 
-Example 2 Output Generated:
+## Example 2 Output Generated:
 
 Title of the Article: Global warming and climate change effects: information and facts
 
